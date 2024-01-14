@@ -48,7 +48,7 @@ public class RunCucumberTest {
         reportBuilder.setReportDirectory("target/cucumber/report-builder/");
         reportBuilder.setReportFileName("index");
         reportBuilder.setReportColor(Color.CYAN); // http://materializecss.com/color.html
-        reportBuilder.setReportTitle("Automacao Avancada");
+        reportBuilder.setReportTitle("Automacao de Faturas");
         reportBuilder.setAdditionalInfo("Date", dataReport);
         reportBuilder.build(cucumberJsonReports);
     }

@@ -1,5 +1,8 @@
 #language: pt
 Funcionalidade: Login
+  Eu como ussário dá página de faturas
+  Quero realizar o login na página
+  Para poder visualizar todas as minhas faturas
 
   @resetBrowser
   Cenario: Login com sucesso

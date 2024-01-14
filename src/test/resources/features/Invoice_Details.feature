@@ -1,5 +1,8 @@
  #language: pt
  Funcionalidade: Detalhe Fatura
+   Eu comno usuário da página de faturas
+   Quero visualizar os detalhe da fatura
+   Para validar as informações da minhas faturas
 
    Contexto:Login com sucesso
      Dado que o usuario esteja na tela de login
